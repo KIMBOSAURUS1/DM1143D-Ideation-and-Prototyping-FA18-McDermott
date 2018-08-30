@@ -25,6 +25,6 @@ Examples/Inspiration:
 * [Michael Rakowitz paraSITE](http://www.michaelrakowitz.com/parasite/)
 * [Krzysztof Wodiczko Tijuana Projection and other site-specific work](https://art21.org/artist/krzysztof-wodiczko/)
 * [Joshua Allen Harris inflatable bag monsters](http://www.arttherapyblog.com/online/urban-street-art-5-inflatable-bag-monsters-by-joshua-allen-harris/#.W4hIpJNKg8Y)
-* [Natalie Jeremijenko amphibious architecture] (http://www.spontaneousinterventions.org/project/amphibious-architecture)
+* [Natalie Jeremijenko amphibious architecture](http://www.spontaneousinterventions.org/project/amphibious-architecture)
 * [Kate Orf Oyster-tecture](https://www.6sqft.com/living-breakwaters-an-award-winning-project-brings-oyster-tecture-to-the-shores-of-staten-island/)
 * [Michelle Teran Life: A User's Manual](http://www.ubermatic.org/?p=221) 
