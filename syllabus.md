@@ -21,6 +21,8 @@ This document may be updated to reflect changes in the course schedule and conte
 * [Object Redesign Lasercut](lasercut.md)
 * [Classmate Input Map](classmate_discovery.md)
 * [Attend a lecture, talk or exhibition](attend_a_lecture.md)
+* [Reading Responses](reading_responses.md)
+
 
 #### Projects
 * [Creative Process Presentation & Bibliography](creative_process.md)
