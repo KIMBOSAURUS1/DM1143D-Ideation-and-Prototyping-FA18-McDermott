@@ -1,16 +1,13 @@
-# DM-UY 1143 B Ideation and Prototyping
+# DM-UY 1143 D Ideation and Prototyping
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2017 
-    Tuesdays & Thursday • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718        
+    Kathleen McDermott • kmcdermott@nyu.edu • Fall 2018 
+    Wednesdays • 6:30PM-10:10PM • 2 Metrotech Center MAGNET 817 • 3 credit hrs     
 
-#### Office hours by appointment at http://calendly.com/deangela or directly after class 
+#### Office hours by appointment 
 
-#### Gitbook Repository: https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2017/content/
-
-#### Course Management Site: http://bxmc.slack.com 
+#### Course Management Site: NYU Classes
 
 ---
 _&quot;I have no special talents. I am only passionately curious.&quot;_
@@ -36,96 +33,72 @@ The following Integrated Digital Media program goals are introduced and reinforc
 
 ### COURSE GOALS
 
-To get students to:
+To facilitate students to:
+*	develop a rigorous, iterative process for looking, questioning, thinking, making, and
+communicating that challenges assumptions and preconceived ideas
+*	use their imagination to create something entirely new & innovative OR to reinvent an
+old idea into something new
+*	introduce students to the many research & design methodologies available to them
+*   develop skills of description, research, analysis, visualization, design and critical
+thinking.
+*	think critically about their audience, content, form, and processes
+*	improve writing, documentation, and presentation skills
+*	facilitate collaboration
 
-*   develop a rigorous, iterative process for looking, questioning, thinking, making, and communicating that challenges assumptions and preconceived ideas
-*   use their imagination to create something entirely new &amp; innovative OR to reinvent an old idea into something new
-*   introduce students to the many research &amp; design methodologies available to them
-*   develop skills of description, research, analysis, visualization, design and critical thinking.
-*   improve writing, documentation, and presentation skills
-*   facilitate collaboration
 
 
 ### LEARNING OUTCOMES
 
-By the end of this course students should be able to:
+By the end of the course students will be better equipped:
+to identify and analyze inspirational and research material, search and spot ideas, and transform invisible ideas into visible realizations. Bring ideas and thoughts into the physical/tangible space, incorporate feedback into their production process.
 
-*   to search and spot ideas, and transform these invisible ideas into visible realizations
 
 
 ### COURSE STRUCTURE
 
-The course will be comprised of lectures, critiques, discussions, readings, screenings, exercises, projects, and a collaborative research paper.
-
-Critiques are the best way to articulate your ideas to others and get immediate feedback. The class analyzes and suggests ways to increase the impact of your project. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your critique notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand what you are doing to make your project better. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+The course will closely follow a studio model, with students actively creating and sharing work in class. Creative production will be supplemented with lectures, screenings and critical discussions of required readings. The topics and techniques covered in the course can be grouped into four categories, (which sometimes overlap): *Inspiration, Research, Iteration and Prototyping.* Smaller assignments are designed to improve student skills in these four areas, and to contribute to a framework of understanding which students can draw on when approaching larger projects. 
 
 Rules of the Critique:
 * Be Present and Engaged
 * Give Feedback to your classmates
 * Do NOT take feedback personally.
 
-There will be discrete team and individual exercises and projects that require you to apply the tools, techniques, and methods presented in the lectures, discussions, readings, and other material. These fundamentals are organized according to five phases:
+**/Inspiration/**
+* Observing, watching, seeing, hearing, touching, tasting, smelling, feeling 
+* Collecting, cataloging, obsessing, hoarding, exploring, questioning
 
-**Phase 1: Discovery / Inspiration**
+**/Research/**
+* Analyzing and learning from inspirations
+* Reading scholarly research, popular media, and fiction
+* First hand observations, interviews, sketches, notes, photographs, recording and video
+* Establishing framework and research question
+* Designing experiments
 
-*   Seeing, hearing, touching, tasting, smelling, feeling
-*   Collecting, obsessing, hoarding
-*   Reappropriating, remixing
+**/Iteration/**
+* Brainstorming, automatic writing
+* Modifying/repurposing/building on existing
+* Material experiments and tests
+* Sketches, photos, models
+* Sharing/presenting work, checking ideas in relation to framework and research question, repeating the iteration process.  
 
-**Phase 2: Research / Ideation / Brainstorming**
+**/Prototyping/** 
+* Modifying/repurposing/building on existing objects, models, images, audio, and video
+* Creating renderings, images, 3-D models, collages, textures
+* Draft models: paper, cardboard, wire, paper maché, fabric
+* Rapid prototyping: 3-D printing, CNC milling, Laser cut stencils, slice forms, signs  
+* Performing, testing, documenting in context
+* Checking result in relation to research question, repeating the prototyping process.  
 
-*   Asking and listening
-*   Visual researching
-*   Materials researching
-*   User / audience researching and ethnographic researching
-*   Systems researching
-*   Activity researching
-*   Primary researching
-*   Scholarly researching
-*   Brainstorming, gamestorming, ideation
-
-**Phase 3: Design / Sketching / Mapping**
-
-*   Visualizing, drawing, sketching
-*   Planning and mapping
-*   Grouping, clustering, comparing, contrasting
-*   Organizing and designing
-*   Reorganizing and redesigning
-*   Shaping and forming
-*   Discerning and revealing
-*   Connecting and disconnecting
-
-**Phase 4: Prototyping**
-
-*   Making, building, creating
-*   Rapid prototyping
-*   Iterating
-*   Selecting and editing
-*   Breaking then repeating all of the above
-
-**Phase 5: Positioning / Pitching**
-
-*   Framing and positioning
-*   Storytelling, engaging, communicating, selling
-
-Students will conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 ### STUDENT RESPONSIBILITIES
 
 * Schedule your time (keep a calendar of some sort) 
 * Come to class on time and participate (be present and engaged)
-* Study outside of class (ideally with classmate(s)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
-* Consult slack at least once a week for up to date info
 * Complete all assignments by due dates
 * Acquire and read all assigned readings before they are due
-* Action – do your absolute best
-* Strive for continuous improvement
-* Direct message me on slack re: contact about logistics (when, where, how many?) only
-* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
-* Have desire amounting to enthusiasm (to learn, to explore)
+* Schedule a meeting to talk to me in person about issues and problems.
 * Have patience, persistence, and discipline 
-* Be creative
 * Pay attention to detail & craft
 * Have self-confidence and pride in your work
 * Take risks & be fearless in your projects
@@ -136,11 +109,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Attendance
 
-* Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
-* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
-* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class (in person or via direct message on slack is preferred).
-* Attendance is mandatory for the midterm and final presentations / critiques.
+You cannot participate if you are absent from class. If you are going to be absent from class you must contact me by email. A single unexcused absence will result in an email between the student, instructor, and program director. More than two unexcused absences will result in a full letter grade reduction (e.g., B –> C) in the class participation portion of your grade. The class is small so it will be obvious if you are not present.
 
 #### Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
 
