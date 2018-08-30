@@ -8,9 +8,9 @@
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Personal Inventory](personal_inventory.md)
 * [Day in The Life Media Study](day_in_the_life.md)
-* [Object Redesign Lasercut] (lasercut.md)
+* [Object Redesign Lasercut](lasercut.md)
 * [Classmate Input Map](input_map.md)
-* [Attend a lecture, talk or exhibition] (attend_a_lecture.md)
+* [Attend a lecture, talk or exhibition](attend_a_lecture.md)
 
 
 
