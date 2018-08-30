@@ -9,7 +9,7 @@ Documentation of your creative process is an integral part of your creative work
 
 With this in mind, throughout the duration of the semester each student must carefully document all of the work created in this class, from brainstorming sessions with post-it notes to pages in a sketchbook to rough prototypes. You will post this documentation on your process website on a daily or weekly basis.
 
-The process is especially important for documenting your Constant Input/Output assignment. How you organize your site is up you, but you may wish to create a separate page for each assignment, or use the blog function for Constant Input, and use site pages for other assignments. 
+The process website is especially important for documenting your Constant Input/Output assignment. How you organize your site is up you, but you may wish to create a separate page for each assignment, or use the blog function for Constant Input, and use site pages for other assignments. 
 
 You have several options:
 * Create a dedicated wordpress via [http://wp.nyu.edu](http://wp.nyu.edu)
