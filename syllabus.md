@@ -30,6 +30,6 @@ This document may be updated to reflect changes in the course schedule and conte
 * [Future Dystopia / Utopia Project](future.md)
 
 
-
+#### [Labs](labs.md)
 
 
