@@ -1,5 +1,3 @@
-### DM-UY 1143 Ideation and Prototyping
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
 
 # Analog or Digital Notebook or Sketchbook
 
@@ -9,4 +7,4 @@ Acquire some kind of bound notebook or sketchbook to collect ideas, questions, l
 
 If you choose to do this digitally, I recommend Evernote or Paper by FiftyThree, but you can choose another application.
 
-You will document your analog notebook on a weekly basis through photos or videos. If you choose to do this digitally, you can share evernote or paper entries on your process website. You don't have to document every page, only key pages.
+You will document your analog notebook on a weekly basis through photos or videos and upload images to your process website. If you choose to do this digitally, you can share evernote or paper entries on your process website. You don't have to document every page, only key pages.
