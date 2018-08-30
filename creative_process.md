@@ -1,25 +1,11 @@
-### DM-UY 1143 Ideation and Prototyping
+# Creative Process Presentation & Bibliography 
 
-##### Fall 2017 • De Angela L. Duff • Tuesdays and Thursdays • 2:30-4:20pm • 2MTC MAGNET 811
+Research, analyze, evaluate, and communicate the research & design processes of a creator from a discipline of your choice. Present this research in a 10 minute Powerpoint or video, with citations of at least 10 separate sources throughout. *At least five of the sources must be academic (books, journal articles, museum catalogs)* Cite your sources throughout your presentation and also turn in a bibliography online in NYU Classes. Use [Chicago MLA format.](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
 
-# Creative Process Annotated Bibliography & Video Documentary
+The process presentation will reveal the discoveries you made about your subject, as well as how these discoveries will inform or have informed your own creative processes.
 
-Working in groups of two, you will research, analyze, evaluate, and communicate the research & design processes of a creator from a discipline of your team’s choice. The final form of this research project will be an annotated bibliography and video documentary of 1 to 3 minutes in length.
 
-Student | Creator
---- | --- 
-Alice &amp; Justin | Tim Burton
-Adam &amp; Jessy | Hideo Kojima
-Joseph &amp; Richael | Hayao Miyazaki
-Shehara &amp; Maya | Christopher Nolan 
-Derek &amp; Sawyer | Adam Savage
-Shirley &amp; Chester | Walt Disney
-Sophie &amp; Lauren | Walt Disney
-Rudhi &amp; Vanda | Walt Disney
-Florentina &amp; Anand | Steve Wozniak
-Aryan &amp; Leon | Hans Zimmer
-
-Possible Choices \(but not limited to\):
+### Possible Choices \(but not limited to\):
 
 * Sarah Blakely \(Spanx\)
 * Richard Branson
@@ -59,27 +45,17 @@ Possible Choices \(but not limited to\):
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give your team insights into the research and design processes of your subject.
 
-### Annotated Bibliography
+### Bibliography
 
-You will write an annotated bibliography as a team. I recommend using google docs to collaboratively write. The bare minimum of sources is five.
+*The Wikipedia Disclaimer: Nowadays, wikipedia is often the starting point for research – it’s quick, easy, and provides an acceptable overview of many subjects. However, for serious, sustained research Wikipedia should not be relied upon as a primary source. Use Wikipedia to familiarize yourself with your subject and to locate other sources for further research.
 
-Using [Purdue OWL Annotated Bibliography Guidelines](https://owl.english.purdue.edu/owl/resource/614/01/), summarize, assess, and reflect.
-
-* The Wikipedia Disclaimer: Nowadays, wikipedia is often the starting point for research – it’s quick, easy, and provides an acceptable overview of many subjects. However, for serious, sustained research Wikipedia should not be relied upon as a primary source. Use Wikipedia to familiarize yourself with your subject and to locate other sources for further research.
+Remember that you can use non-academic sources such as interviews in magazines and blogs, but you also need at least 5 academic sources (books, journal articles, museum catalogs). Format your bibliography in [Chicago MLA format.](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
 
 You can access NYU’s central library here: [http://library.nyu.edu/](http://library.nyu.edu/)
 
 You can access NYU Tandon’s Bern Dibner Library here: [http://library.poly.edu/](http://library.poly.edu/)
 
-### Creative Process Video Documentary
-
-Create a video documenting the creative process of your chosen creator. This is not a “documentary” in the traditional sense, this is a video that both documents your chosen creator’s process, and is also an experimental video work in and of itself. This is not about telling the story of how they came to be an artist, designer, or creative technologist; this is about your team telling the story of their process, without a linear narrative.
-
-Your team’s video documentary must be 1 to 3 minutes long and be executed with the utmost care and craftsmanship. Carefully consider such filmic aspects as editing, montage, visual rhythm, supplemental graphics and titles, audio score, storytelling, tone, and point of view
-
-The process documentary will reveal:
-
-* the discoveries your team made about your subject, and, more specifically how these discoveries will inform or have informed both of your own creative processes, etc.
+[Google Scholar](https://scholar.google.com/) is another good starting point, if you find an interesting article or book that it is behind a paywall, try searching for the title in the NYU library.  
 
 
 
