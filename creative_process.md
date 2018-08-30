@@ -43,13 +43,13 @@ The process presentation will reveal the discoveries you made about your subject
 * Paula Scher
 * Twyla Tharp
 
-The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give your team insights into the research and design processes of your subject.
+The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give you insights into the research and design processes of your subject.
 
 ### Bibliography
 
-*The Wikipedia Disclaimer: Nowadays, wikipedia is often the starting point for research – it’s quick, easy, and provides an acceptable overview of many subjects. However, for serious, sustained research Wikipedia should not be relied upon as a primary source. Use Wikipedia to familiarize yourself with your subject and to locate other sources for further research.
+*The Wikipedia Disclaimer: Nowadays, wikipedia is often the starting point for research – it’s quick, easy, and provides an acceptable overview of many subjects. However, for serious, sustained research Wikipedia should not be relied upon as a primary source. Use Wikipedia to familiarize yourself with your subject and to locate other sources for further research.*
 
-Remember that you can use non-academic sources such as interviews in magazines and blogs, but you also need at least 5 academic sources (books, journal articles, museum catalogs). Format your bibliography in [Chicago MLA format.](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
+Remember that you can use as many non-academic sources as you like, such as interviews in magazines and blogs– but you also need at least 5 academic sources (books, journal articles, museum catalogs). Format your bibliography in [Chicago MLA format.](https://owl.purdue.edu/owl/research_and_citation/chicago_manual_17th_edition/chicago_manual_of_style_17th_edition.html)
 
 You can access NYU’s central library here: [http://library.nyu.edu/](http://library.nyu.edu/)
 
