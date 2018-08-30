@@ -1,6 +1,6 @@
 # Labs
 
-This course is designed to follow a studio mdoel. We will have several hands-on "lab" lessons during class-time. 
+This course is designed to follow a studio model. We will have several hands-on "lab" lessons during class-time. 
 Some of the labs will include the use of handtools. On these days, you should wear close-toed shoes, pants, and have hair tied back.
 Please check the course calendar, and make sure you are dressed appropriately. 
 
