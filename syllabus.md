@@ -1,5 +1,5 @@
 # DM-UY 1143 D Ideation and Prototyping
-[NYU](http://archive.engineering.nyu.edu/files/tandon_long_black.png)
+![NYU](http://archive.engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Kathleen McDermott • kmcdermott@nyu.edu • Fall 2018 
