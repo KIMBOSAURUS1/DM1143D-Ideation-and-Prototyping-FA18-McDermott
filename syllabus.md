@@ -31,6 +31,10 @@ This document may be updated to reflect changes in the course schedule and conte
 
 
 #### Labs
-* [Labs](labs.md)
+* Policy on [Labs in general](labs.md)
+* Also check the syllabus and weekly posting for more specific break-down of what will be covered the following week.
 
+#### Readings
+* Information on how to access texts can be found at [readings.md](readings.md)
+* Also check the syllabus and weekly posting for more specific break-down of what will be due the following week.
 
