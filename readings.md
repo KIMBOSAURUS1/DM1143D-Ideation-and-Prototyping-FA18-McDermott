@@ -1,6 +1,6 @@
 # Readings
 
-On this page you will find information on accessing required readings. Visit the [reading response page](reading_responses.md) for guideliness on how to write and submit your reading response.
+On this page you will find information on accessing required readings. Visit the [reading response page](reading_responses.md) for guideliness on how to write and submit your reading responses.
 
 #### Design For the Real World
 
