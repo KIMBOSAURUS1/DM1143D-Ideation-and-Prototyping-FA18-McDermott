@@ -1,11 +1,16 @@
 # Constant Output
 
+This is an ongoing project that you will complete throughout the semester. It is an important part of the course that will challenge you to improve your creative process. You will present initial ideas for what you may want to do, and your first project "entry" on 09/12. You __must document your creative process on a website or blog, that you set up for this class__ for more information on possible options for setting up your website, visit the [process website page](process_website.md)
+
+
+#### Assignment Details
+There are two options for this project: constant output or constant input. Take a moment to read about these two options, and think about which one might be best for you. Keep in mind, you can only choose one.
+
 Choose either for the entire semester. **Do not do both**:
 
 *   Passion Project: Individual (or Collaborative) Daily, Weekly, or Monthly or
 *   Discovery Log or
 
-An important part of this course is a semester-long project that will challenge you to improve your creative process. There are two options for this project: constant output or constant input. Take a moment to read about these two options, and think about which one might be best for you. Keep in mind, you can only choose one.
 
 #### Personal Passion Project: Individual (or Collaborative), Daily, Weekly or Monthly
 
