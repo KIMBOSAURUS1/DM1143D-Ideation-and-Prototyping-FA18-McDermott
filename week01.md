@@ -1,4 +1,4 @@
-# Week 01 
+# Week 01 (09/05)
 
 * Hello and welcome to Ideation & Prototyping
 * Syllabus overview
