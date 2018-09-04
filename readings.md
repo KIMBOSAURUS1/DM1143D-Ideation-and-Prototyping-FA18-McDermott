@@ -1,5 +1,7 @@
 # Readings
 
+On this page you will find information on accessing required readings. Visit the [reading response page](reading_responses.md) for guideliness on how to write and submit your reading response.
+
 #### Design For the Real World
 
 The key text for this course is Victor Papanek's *Design for The Real World: Human Ecology and Social Change* (2nd
