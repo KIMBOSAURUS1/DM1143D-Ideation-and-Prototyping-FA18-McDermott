@@ -16,4 +16,4 @@
 
 * ASSIGN 01: Creative Process + Website (due 9/12 and ongoing)
 * ASSIGN 02: Sketchbook (due 9/12)
-* REQ READING: Design For the Real World, Chapter 1 (due 9/12) Visit [the readings page](readings.md) for information on how to access
+* REQ READING: Design For the Real World, Chapter 1 (due 9/12) Visit [the readings page](readings.md) for information on how to access this reading. 200 word response due to NYU Classes, 9/12. 
