@@ -1,3 +1,19 @@
 # Week 01 
 
-Details coming soon
+* Hello and welcome to Ideation & Prototyping
+* Syllabus overview
+
+#### /Inspiration/
+
+* Introduction to Creative Process Assignment
+* Introduction to Sketchbook Assignment
+
+#### /Lab/
+
+* LAB: Surrealist drawing exercises, still-life drawing exercise. Bring drawing pencils and drawing pad if you have. 
+
+#### /Assignments/ 
+
+* ASSIGN 01: Creative Process + Website (due 9/12 and ongoing)
+* ASSIGN 02: Sketchbook (due 9/12)
+* REQ READING: Design For the Real World, Chapter 1 (due 9/12) Visit [the readings page](readings.md) for information on how to access
