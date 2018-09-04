@@ -5,8 +5,8 @@
 
 #### /Inspiration/
 
-* Introduction to Creative Process Assignment
-* Introduction to Sketchbook Assignment
+* Introduction to Creative Process Assignment (slides will be added)
+* Introduction to Sketchbook Assignment (slides will be added)
 
 #### /Lab/
 
