@@ -3,7 +3,7 @@
 #### /LAB/
 
 * __MAKERSPACE TRAINING:__ meet at the MakerSpace, 6 MetroTech Center at 6:30, __do not be late.__
-Bring your student ID, wear close-toed shoes, long pants, tie hair back. 
+Bring your student ID, wear close-toed shoes, long pants, tie hair back. Bring sketchbook or something to take notes with.
 
 #### /PRESENT/
 
