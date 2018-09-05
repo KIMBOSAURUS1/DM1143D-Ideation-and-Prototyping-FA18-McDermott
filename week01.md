@@ -5,7 +5,7 @@
 
 #### /Inspiration/
 
-* Introduction to Creative Process Assignment [Link to some pase student work, as a reference, NYU only](https://docs.google.com/document/d/1jIvbYDL5Gw2MShef-S1qUPrzAD2fl61TvPtuWQ5M6Gg/edit?usp=sharing) 
+* Introduction to Creative Process Assignment [Link to some past student work, as a reference, NYU only](https://docs.google.com/document/d/1jIvbYDL5Gw2MShef-S1qUPrzAD2fl61TvPtuWQ5M6Gg/edit?usp=sharing) 
 * Introduction to Sketchbook Assignment [Link to slides, NYU ONLY](https://docs.google.com/presentation/d/1dtttcG6Uf2DiAKjUdVnBZNchDK2oUrDPrZEM_6zxL0g/edit?usp=sharing) 
 
 #### /Lab/
