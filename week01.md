@@ -5,13 +5,13 @@
 
 #### /Inspiration/
 
-* Introduction to Creative Process Assignment (Link to some pase student work, as a reference, NYU only)[https://docs.google.com/document/d/1jIvbYDL5Gw2MShef-S1qUPrzAD2fl61TvPtuWQ5M6Gg/edit?usp=sharing] 
-* Introduction to Sketchbook Assignment (Link to slides, NYU ONLY)[https://docs.google.com/presentation/d/1dtttcG6Uf2DiAKjUdVnBZNchDK2oUrDPrZEM_6zxL0g/edit?usp=sharing] 
+* Introduction to Creative Process Assignment [Link to some pase student work, as a reference, NYU only](https://docs.google.com/document/d/1jIvbYDL5Gw2MShef-S1qUPrzAD2fl61TvPtuWQ5M6Gg/edit?usp=sharing) 
+* Introduction to Sketchbook Assignment [Link to slides, NYU ONLY](https://docs.google.com/presentation/d/1dtttcG6Uf2DiAKjUdVnBZNchDK2oUrDPrZEM_6zxL0g/edit?usp=sharing) 
 
 #### /Lab/
 
 * LAB: Surrealist drawing exercises, still-life drawing exercise. Bring drawing pencils and drawing pad if you have. 
-* Some quick tips on drawing from life (link to slides)[https://docs.google.com/presentation/d/1a3rqqQ5Jda9AXP5N590Way0EEMYcZVMsYlIijHaNvuY/edit?usp=sharing]
+* Some quick tips on drawing from life [link to slides](https://docs.google.com/presentation/d/1a3rqqQ5Jda9AXP5N590Way0EEMYcZVMsYlIijHaNvuY/edit?usp=sharing)
 
 #### /Assignments/ 
 
