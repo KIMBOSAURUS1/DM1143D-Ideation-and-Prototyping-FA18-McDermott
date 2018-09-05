@@ -9,7 +9,7 @@
 
 #### Additional Course Management Site: NYU Classes
 
-#### [Link to full Syllabus PDF](https://wp.nyu.edu/criticalwearables/wp-content/uploads/sites/11961/2018/08/IDEATIONPROTOTYPING_McDermott.pdf)
+#### [Link to full Syllabus PDF](https://wp.nyu.edu/criticalwearables/wp-content/uploads/sites/11961/2018/09/IDEATIONPROTOTYPING_McDermott2.pdf)
 This document may be updated to reflect changes in the course schedule and content. Please check back regularly.  
 
 #### Assignments
