@@ -7,7 +7,7 @@ Bring your student ID, wear close-toed shoes, long pants, tie hair back. Bring s
 
 #### /PRESENT/
 
-* Present Creative Process (Assignment 01)
+* Present Constant Output (Assignment 01)
 * Show sketchbook
 
 #### /Iteration/Prototyping/
