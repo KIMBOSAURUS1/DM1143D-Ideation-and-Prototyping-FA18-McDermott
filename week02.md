@@ -14,7 +14,7 @@ Bring your student ID, wear close-toed shoes, long pants, tie hair back. Bring s
 #### /Iteration/Prototyping/
 
 * Reading discussion
-* Remember to upload you 200 word [reading response](reading_response.md) to classes or bring in a hard copy.
+* Remember to upload you 200 word [reading response](reading_responses.md) to classes or bring in a hard copy.
 * Lecture: Design Research Overview (Slides will be added) 
 
 #### /Assignments for Next Week/
