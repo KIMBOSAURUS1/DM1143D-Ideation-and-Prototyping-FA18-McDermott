@@ -9,7 +9,7 @@ Bring your student ID, wear close-toed shoes, long pants, tie hair back. Bring s
 
 * Present [Constant Output](constant_output_choices.md)(Assignment 01)
 * Constant Output should be on your [process website](process_website.md)
-* Show [sketchbook](sketchbook.md)
+* Show [sketchbook](notebook_or_sketchbook.md)
 
 #### /Iteration/Prototyping/
 
