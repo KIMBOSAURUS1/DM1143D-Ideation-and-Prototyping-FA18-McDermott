@@ -6,15 +6,15 @@
 * Present [ASSIGN 04: Day in The Life](day_in_the_life.md) 
 
 
-#### Research/Iteration/Prototyping/
+#### /Research/Iteration/Prototyping/
 
 * Design Activism reading discussion
 * Remember to upload you 200 word [reading response](reading_responses.md) to classes or bring in a hard copy.
 
 #### /LAB/
 
-*Illustrator crash course (install trial from laptop, or we can work from computer lab)
-*Re-design the form of a common object 
+* Illustrator crash course (install trial from laptop, or we can work from computer lab)
+* Re-design the form of a common object 
 
 #### /Assignments for Next Week/
 
