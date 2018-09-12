@@ -15,7 +15,7 @@ Bring your student ID, wear close-toed shoes, long pants, tie hair back. Bring s
 
 * Reading discussion
 * Remember to upload you 200 word [reading response](reading_responses.md) to classes or bring in a hard copy.
-* Lecture: Design Research Overview (Slides will be added) 
+* Lecture: Design Research Overview [Slides](https://docs.google.com/presentation/d/1UGf2cRX1_iFs5dr76ll7hIAAxrzbX_VrRQJ7F3fX_h8/edit?usp=sharing)
 
 #### /Assignments for Next Week/
 
