@@ -26,3 +26,5 @@ Bring your student ID, wear close-toed shoes, long pants, tie hair back. Bring s
 * Review Design for the Real world, since we did not have time to discuss today.
 * Keep working on your Constant Input/Output.  
 * Install Adobe Illustrator free trial if possible, otherwise I'll try to book computer lab. 
+
+* Performance artist I mentioned this week https://theculturetrip.com/north-america/usa/new-york/articles/tehching-hsieh-when-life-becomes-a-performance/ 
