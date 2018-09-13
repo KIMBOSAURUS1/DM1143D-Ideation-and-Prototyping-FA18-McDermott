@@ -22,7 +22,7 @@ Bring your student ID, wear close-toed shoes, long pants, tie hair back. Bring s
 * [Project 01 Assigned](creative_process.md) (Due 09/26)
 * [ASSIGN 03: Personal Inventory](personal_inventory.md) (Due 09/19)
 * [ASSIGN 04: Day in The Life](day_in_the_life.md) (Due 09/19)
-~~* REQ READING: [Design Activism, Ch. 4](https://designopendata.files.wordpress.com/2014/05/designactivism-beautifulstrangenessforasustainableworld_alastairfuadluke.pdf) (200 word response due 09/19)~~
+* ~~REQ READING: [Design Activism, Ch. 4](https://designopendata.files.wordpress.com/2014/05/designactivism-beautifulstrangenessforasustainableworld_alastairfuadluke.pdf) (200 word response due 09/19)~~
 * Review Design for the Real world, since we did not have time to discuss today.
 * Keep working on your Constant Input/Output.  
 * Install Adobe Illustrator free trial if possible, otherwise I'll try to book computer lab. 
