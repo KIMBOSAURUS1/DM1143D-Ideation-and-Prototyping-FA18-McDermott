@@ -4,15 +4,15 @@
 
 * Present [ASSIGN 03: Personal Inventory](personal_inventory.md) 
 * Present [ASSIGN 04: Day in The Life](day_in_the_life.md) 
-* + 3 people still need to present Constant Input 
+* 3 people still need to present Constant Input 
 
 
 #### /Research/Iteration/Prototyping/
 
 * Reading discussion
 * Lecture: Design Research Overview [Slides](https://docs.google.com/presentation/d/1UGf2cRX1_iFs5dr76ll7hIAAxrzbX_VrRQJ7F3fX_h8/edit?usp=sharing)
-~* Design Activism reading discussion
-* Remember to upload you 200 word [reading response](reading_responses.md) to classes or bring in a hard copy.~
+~~* Design Activism reading discussion
+* Remember to upload you 200 word [reading response](reading_responses.md) to classes or bring in a hard copy.~~
 
 #### /LAB/
 
