@@ -9,7 +9,7 @@
 
 #### /Research/Iteration/Prototyping/
 
-* Reading discussion
+* Design for the Real World Reading discussion
 * Lecture: Design Research Overview [Slides](https://docs.google.com/presentation/d/1UGf2cRX1_iFs5dr76ll7hIAAxrzbX_VrRQJ7F3fX_h8/edit?usp=sharing)
 * ~~Design Activism reading discussion~~
 * ~~Remember to upload you 200 word [reading response](reading_responses.md) to classes or bring in a hard copy.~~
