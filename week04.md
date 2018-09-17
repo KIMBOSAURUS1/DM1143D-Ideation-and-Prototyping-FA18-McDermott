@@ -6,7 +6,7 @@
 
 #### /SUBMIT/
 
-* Reading responses for this weeks REQ READING: [Miseducation of the Doodle](https://alistapart.com/article/the-miseducation-of-the-doodle) and [Sketching: The Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool)
+* Reading responses for this week's REQ READING: [Miseducation of the Doodle](https://alistapart.com/article/the-miseducation-of-the-doodle) and [Sketching: The Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool)
   (200 word response due 09/26)
 
 #### /Assignments for Next Week/
