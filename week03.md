@@ -5,7 +5,7 @@
 * Present [ASSIGN 03: Personal Inventory](personal_inventory.md) 
 * Present [ASSIGN 04: Day in The Life](day_in_the_life.md) 
 * 3 people still need to present Constant Input 
-* You can check your classmates' work here: [class_sites](class_sites.md)
+* You can check out your classmates' work here: [class sites](class_sites.md)
 
 #### /Research/Iteration/Prototyping/
 
