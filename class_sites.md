@@ -7,7 +7,7 @@
 * Bracha- https://wp.nyu.edu/brachaeisenstat/
 * Kevin- https://wp.nyu.edu/kferreira/
 * Dylan- https://dylanhenrynyu.tumblr.com/
-* Harrison- 
+* Harrison- https://wp.nyu.edu/harrisonjqh/
 * Zheng yu- https://www.tumblr.com/blog/z-h-eng
 * Kim- https://wp.nyu.edu/ideation_and_prototyping1/2018/09/12/constant-output-1/
 * Aadi- 
