@@ -13,7 +13,7 @@
 * Kim- https://wp.nyu.edu/ideation_and_prototyping1/2018/09/12/constant-output-1/
 * Aadi- http://www.aadi.tv/
 * Mayda- https://wp.nyu.edu/prototyping/
-* Claudia- https://wp.nyu.edu/minez/
+* Claudia- https://cloudmadness.tumblr.com/
 * Jenny- https://junweishi.tumblr.com/
 * Sahana- https://wp.nyu.edu/inaname/2018/09/12/laurens-surya/
 * Haixin- https://wp.nyu.edu/haixintangideation/
