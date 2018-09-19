@@ -3,6 +3,7 @@
 * Val- https://valentinaacero.weebly.com/constant-output
 * Kyle- https://disposableplastic.tumblr.com/
 * KC- https://wp.nyu.edu/kaihun/
+* Calvin-  
 * Julia- https://wp.nyu.edu/julia3dmodels 
 * Bracha- https://wp.nyu.edu/brachaeisenstat/
 * Kevin- https://wp.nyu.edu/kferreira/
