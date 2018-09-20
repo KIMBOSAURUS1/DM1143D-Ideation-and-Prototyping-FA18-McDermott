@@ -21,6 +21,7 @@
 
 #### /Assignments for Next Week/
 
+* By Friday, send me who you are profiling for Creative Process 
 * [Project 01](creative_process.md) Due next week, 09/26
 * [Assign 05](lasercut.md) Due 10/03
 * REQ READING: [Miseducation of the Doodle](https://alistapart.com/article/the-miseducation-of-the-doodle) and [Sketching: The Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool)
